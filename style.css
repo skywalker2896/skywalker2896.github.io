@@ -10,7 +10,7 @@
     height: 450px;
     position: relative;
     margin: 100px auto;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .btn-box{
     display: flex;
