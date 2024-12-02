@@ -5,7 +5,7 @@
      font-family: 'Roboto', sans-serif;
 }  
 .hero{
-    width: 90%;
+    width: 80%;
     height: 450px;
     position: relative;
     margin: 100px auto;
@@ -64,12 +64,10 @@
     text-align: center;
 }
 
-#content1{
+/* #content1{
     transform: translateX(0);
 }
 
 #btn1{
     color: #797ef6;
-}
-
-
+} */
