@@ -1,15 +1,15 @@
- *{  
+*{  
      padding: 0;  
      margin: 0;  
      box-sizing: border-box;  
-     font-family: 'Roboto', sans-serif;
+     font-family: 'Poppins', sans-serif;
 }  
 .hero{
     width: 80%;
     height: 450px;
     position: relative;
     margin: 100px auto;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .btn-box{
     display: flex;
