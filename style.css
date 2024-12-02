@@ -43,7 +43,7 @@
     /* transition: 0.3s */
 }
 .content-left{
-    flex-basis:35%;
+    flex-basis:50%;
 }
 .content-left p{
     font-size: 15px;
@@ -61,7 +61,7 @@
 }
 
 .content-right{
-    flex: basis 50%;
+    flex: basis 65%;
     text-align: center;
 }
 
