@@ -61,7 +61,7 @@
 }
 
 .content-right{
-    flex: basis 65%;
+    flex-basis: 50%;
     text-align: center;
 }
 
