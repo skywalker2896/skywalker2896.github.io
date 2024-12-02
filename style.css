@@ -40,8 +40,7 @@
     align-items: center;
     margin: 5% auto;
     position: absolute;
-    /* transform: translateX(100%);
-    transition: 0.3s; */
+    transform: translateX(100%);
 }
 .content-left{
     flex-basis:50%;
